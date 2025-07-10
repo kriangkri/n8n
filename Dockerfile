@@ -1,0 +1,5 @@
+ENV N8N_BASIC_AUTH_ACTIVE=true
+ENV N8N_BASIC_AUTH_USER=admin
+ENV N8N_BASIC_AUTH_PASSWORD=kkd1234
+ENV N8N_HOST=n8n-kkd.onrender.com
+ENV WEBHOOK_URL=https://n8n-kkd.onrender.com/
